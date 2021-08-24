@@ -1,6 +1,7 @@
 absl-py==0.13.0
 aniso8601==9.0.1
 appdirs==1.4.4
+apturl==0.5.2
 asgiref==3.3.4
 astunparse==1.6.3
 attrs==20.3.0
@@ -179,4 +180,3 @@ wxPython==4.0.7
 xdg==5.0.2
 xkit==0.0.0
 zipp==3.4.1
-
